@@ -1,5 +1,5 @@
 # MuRiT
-Copyright © 2022 Michael Bleher
+Copyright © 2022 Michael Bleher, Maximilian Neumann, Lukas Hahn, Andreas Ott
 
 ## Description
 `MuRiT` is a standalone program that provides Vietoris-Rips transformations for multifiltered flag complexes.
@@ -177,6 +177,4 @@ _Note: By using the `--ripser` flag, the result is automatically converted back 
 
 Maximilian Neumann, Michael Bleher, Lukas Hahn, Samuel Braun,
 Holger Obermaier, Mehmet Soysal, René Caspart, and Andreas Ott (2022).
-"MuRiT: efficient computation of the multiparameter
-persistent homology of multifltered fag complexes via
-Vietoris-Rips transformations". *(to appear)*
+" MuRiT: efficient computation of induced persistence barcodes of multi-filtered flag complexes via Vietoris-Rips transformations". *(to appear)*
